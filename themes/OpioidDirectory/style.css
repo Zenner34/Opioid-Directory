@@ -1,0 +1,39 @@
+/*
+ * Author: Dakota Zenner
+ * Date: 3/28/2016
+ * Project: Simple Opioid Facility Treatment Directory
+ */
+
+/* GLOBAL STYLES
+-------------------------------------------------- */
+
+body {
+  padding-bottom: 40px;
+  color: #5a5a5a;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.lookup {
+	margin-top: 50px;
+}
+
+.facilities {
+  margin-top: 50px;
+}
+
+.facility {
+	min-height: 165px;
+}
